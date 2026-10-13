@@ -1,0 +1,10 @@
+Home page-এ 3D boxing-style BBF visual/logo effect
+Home-এর উপরে ৫টি HD hero image slider
+ছবি প্রতি ৫ সেকেন্ডে automatic change হবে
+নিচে slider dots আছে, চাইলে manually ছবিও change করা যাবে
+সব image assets/images/ folder-এ সহজ filename দিয়ে রাখা হয়েছে
+img1.jpg – img5.jpg → Home slider
+img6.jpg – img16.jpg → International
+img17.jpg – img24.jpg → National
+img25.jpg – img30.jpg → Officials/Staff
+img31.jpg – img40.jpg → Gallery
